@@ -1,0 +1,8 @@
+{
+	"development": {
+		"TOKEN_SECRET" : "saoirse"		
+	},
+	"production": {
+		"TOKEN_SECRET" : "saoirse"
+	}
+}
